@@ -2,8 +2,8 @@ const exports = {};
 exports.app_name = "DMS";
 //exports.API_URL = "http://127.0.0.1:8000/";
 //exports.IMAGE_URL = "http://127.0.0.1:8000/general/render/?file_path=";
-exports.API_URL = "https://api.idclever.net/";
-exports.IMAGE_URL = "https://api.idclever.net/general/render/?file_path=";
+exports.API_URL = "https://api.iddriver.com/";
+exports.IMAGE_URL = "https://api.iddriver.com/general/render/?file_path=";
 
 exports.API_ID_CARD =
   "https://localhost:8182/thaiid/read.jsonp?callback=callback&section1=true&section2a=true&section2c=true";
